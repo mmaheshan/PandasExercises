@@ -21,7 +21,7 @@ These example follow the training on Pandas in O'reilly: Pandas in One Hour: Sho
 
 - Solution URL: [Video Game Data Analysis Github](https://github.com/mmaheshan/pandasexercises/tree/main/01_VideoGameData)
 - O'reilly Link: [Showcasing the high-level features of the Pandas library](https://learning.oreilly.com/course/pandas-in-one/10000MNHV202254/)
-- Data Source: [Video Game Data][ttps://github.com/Mikerniker/100_Days_of_Python/tree/main/Day16](https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download)
+- Data Source: [Video Game Data](https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download)
 
 ### Built with
 
