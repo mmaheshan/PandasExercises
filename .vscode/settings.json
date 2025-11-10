@@ -1,0 +1,6 @@
+{
+    "github.copilot.editor.enableCodeActions": false,
+    "github.copilot.nextEditSuggestions.allowWhitespaceOnlyChanges": false,
+    "github.copilot.nextEditSuggestions.fixes": false,
+    "github.copilot.renameSuggestions.triggerAutomatically": false
+}
