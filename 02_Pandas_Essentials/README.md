@@ -22,6 +22,7 @@ These example follow the training on Pandas Essentials by Jonathan Fernandes fro
 - Solution URL: [Video Game Data Analysis Github](https://github.com/mmaheshan/pandasexercises/tree/main/02_Pandas_Essentials)
 - Linkedin Learning Link: [Pandas Essentials](https://www.linkedin.com/learning/pandas-essential-training-24082178/what-is-pandas?u=2154233)
 - Data Source: [Olympic Games Data](https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download)
+- Pandas Tutor(Examples of Pandas): [PandasTutor.com](https://pandastutor.com/)
 
 ### Built with
 
